@@ -5,3 +5,5 @@ A legend of the files:
 data.rds = simulated intensities for male-female interactions
 pop = simulated population of females of each age
 dt = simulated number of male participants of each age
+Y_data = Polymod observed values of y
+Polymod Participants = data on the Polymod participants, used to generate the participants matrix
